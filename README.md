@@ -2,8 +2,8 @@
 
 http://auth-angular2.netlify.com/
 
-You can login using Facebook or Google
-You can also try and create an account with this demo and login
+You can login using Facebook or Google.
+You can also try and create an account with this demo and login.
 
 
 # To run this app you’ll first need to install the Angular 2 CLI installed.
