@@ -11,6 +11,7 @@ npm install -g angular-cli
 
 # Next, clone this repo.
 git clone https://github.com/illianyh/Angular-2-Authentication.git
+
 cd into project folder
 
 # Then, install this app’s dependencies from npm.
